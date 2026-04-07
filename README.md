@@ -1,3 +1,3 @@
-# programa-o-Python-b-sico.
+# programacao-Python-basico.
 programando-em-python
 
